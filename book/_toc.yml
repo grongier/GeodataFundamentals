@@ -7,13 +7,13 @@ parts:
     - file: 0_overview/schedule.md
   - caption: Part A - Sensing and Statistics
     chapters:
-    - file: 1_sensing_and_statistics/overview.md
+    - file: 1_sensing_and_statistics/data_analysis/overview.md
       sections:
       - file: 1_sensing_and_statistics/data_analysis/descriptive_statistics.ipynb
       - file: 1_sensing_and_statistics/data_analysis/data_visualization.ipynb
   - caption: Part B - Applied Statistics with Python
     chapters:
-    - file: 2_applied_statistics/overview.md
+    - file: 2_applied_statistics/linear_regression/overview.md
       sections:
       - file: 2_applied_statistics/linear_regression/ordinary_least_squares.ipynb
       - file: 2_applied_statistics/linear_regression/weighted_least_squares.ipynb
