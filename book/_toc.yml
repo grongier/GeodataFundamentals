@@ -7,14 +7,14 @@ parts:
     chapters:
     - file: 1_sensing_and_statistics/overview.md
       sections:
-      - file: data_analysis/descriptive_statistics.ipynb
-      - file: data_analysis/data_visualization.ipynb
+      - file: 1_sensing_and_statistics/data_analysis/descriptive_statistics.ipynb
+      - file: 1_sensing_and_statistics/data_analysis/data_visualization.ipynb
   - caption: Part B - Applied Statistics with Python
     chapters:
     - file: 2_applied_statistics/overview.md
       sections:
-      - file: linear_regression/ordinary_least_squares.ipynb
-      - file: linear_regression/weighted_least_squares.ipynb
+      - file: 2_applied_statistics/linear_regression/ordinary_least_squares.ipynb
+      - file: 2_applied_statistics/linear_regression/weighted_least_squares.ipynb
   - caption: Miscellaneous
     chapters:
     - file: references.md
