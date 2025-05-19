@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Geodata Fundamentals
 
-_This is the first page the student will see when opening the url._
+> The purpose of studying economics is not to acquire a set of ready-made answers to economic questions, but to learn how to avoid being deceived by economists.
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Joan Robinson, 1955
