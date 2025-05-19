@@ -3,6 +3,8 @@ root: intro.md
 
 parts:
   - caption: Course overview
+    chapters:
+    - file: 0_overview/schedule.md
   - caption: Part A - Sensing and Statistics
     chapters:
     - file: 1_sensing_and_statistics/overview.md
