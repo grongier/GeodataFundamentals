@@ -7,16 +7,34 @@ parts:
     - file: 0_overview/schedule.md
   - caption: Part A - Sensing and Statistics
     chapters:
+    - file: 1_sensing_and_statistics/geodata/overview.md
+    - file: 1_sensing_and_statistics/probability_theory/overview.md
+    - file: 1_sensing_and_statistics/statistical_inference/overview.md
     - file: 1_sensing_and_statistics/data_analysis/overview.md
       sections:
       - file: 1_sensing_and_statistics/data_analysis/descriptive_statistics.ipynb
       - file: 1_sensing_and_statistics/data_analysis/data_visualization.ipynb
   - caption: Part B - Applied Statistics with Python
     chapters:
+    - file: 2_applied_statistics/data_preparation/overview.md
+      sections:
+      - file: 2_applied_statistics/data_preparation/data_wrangling.ipynb
+      - file: 2_applied_statistics/data_preparation/hypothesis_testing.ipynb
     - file: 2_applied_statistics/linear_regression/overview.md
       sections:
       - file: 2_applied_statistics/linear_regression/ordinary_least_squares.ipynb
       - file: 2_applied_statistics/linear_regression/weighted_least_squares.ipynb
+    - file: 2_applied_statistics/probabilistic_outlook/overview.md
+      sections:
+      - file: 2_applied_statistics/probabilistic_outlook/parameter_uncertainty.ipynb
+    - file: 2_applied_statistics/classification/overview.md
+      sections:
+      - file: 2_applied_statistics/classification/maximum_likelihood.ipynb
+      - file: 2_applied_statistics/classification/logistic_regression.ipynb
+    - file: 2_applied_statistics/validation/overview.md
+      sections:
+      - file: 2_applied_statistics/validation/model_validation.ipynb
+      - file: 2_applied_statistics/validation/model_selection.ipynb
   - caption: Miscellaneous
     chapters:
     - file: references.md
