@@ -22,6 +22,7 @@ parts:
       - file: 2_applied_statistics/data_preparation/hypothesis_testing.ipynb
     - file: 2_applied_statistics/linear_regression/overview.md
       sections:
+      - file: 2_applied_statistics/linear_regression/linear_model.md
       - file: 2_applied_statistics/linear_regression/ordinary_least_squares.ipynb
       - file: 2_applied_statistics/linear_regression/weighted_least_squares.ipynb
     - file: 2_applied_statistics/probabilistic_outlook/overview.md
