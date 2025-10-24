@@ -7,3 +7,5 @@
 
 Change the slope and origin to see the impact on the model.
 ````
+
+<iframe src="images/linear_model.html" width="600" height="400"></iframe>
